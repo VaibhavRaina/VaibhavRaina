@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Pytroch,AWS,Kubernetes,Terraform**
 
-- 💬 Ask me about **React, Javasacript**
+- 💬 Ask me about **MERN Stack, Javascript , Godot, Unity **
 
 - 📫 How to reach me **vaibhavraina12345@gmail.com**
 
