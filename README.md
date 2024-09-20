@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LandFill](https://github.com/VaibhavRaina/LandFill-Modified)
 
-- 🌱 I’m currently learning **Pytroch,AWS,Kubernetes,Terraform**
+- 🌱 I’m currently learning **Pytroch,AWS,Kubernetes,Terraform,Docker**
 
 - 💬 Ask me about **MERN Stack, Javascript , Godot, Unity**
 
